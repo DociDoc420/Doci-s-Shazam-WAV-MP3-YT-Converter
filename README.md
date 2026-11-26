@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dsc-server.ulticonvert.workers.dev/download">
+  <a href="https://dsc-server.ulticonvert.workers.dev">
     <img src="https://img.shields.io/badge/⬇%20%20Download%20for%20Windows-7c5cff?style=for-the-badge&logoColor=white" alt="Download for Windows" height="46">
   </a>
   &nbsp;
@@ -75,7 +75,7 @@ Default is **24-bit · 44.1 kHz**, which plays on every Pioneer player. YouTube 
 
 ## Download
 
-**[⬇ Download the latest version](https://dsc-server.ulticonvert.workers.dev/download)** — always the newest build.
+**[⬇ Download the latest version](https://dsc-server.ulticonvert.workers.dev)** — always the newest build.
 
 Or grab it from [Releases](https://github.com/DociDoc420/Doci-s-Shazam-WAV-MP3-YT-Converter/releases/latest).
 
