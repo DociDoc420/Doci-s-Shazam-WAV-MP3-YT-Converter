@@ -104,7 +104,7 @@ Questions, a new PC, or a payment issue? Message the bot — we reply in the cha
 
 ## Legal
 
-Doci's Song Converter is a tool. You are responsible for what you download and for respecting the rights of creators and the terms of the services you use. See the in-app **Terms of Use** and **[Privacy Policy](https://dsc-server.ulticonvert.workers.dev/privacy)**.
+Doci's Song Converter is a tool. You are responsible for what you download and for respecting the rights of creators and the terms of the services you use. See the in-app **[Terms of Use](https://dsc-server.ulticonvert.workers.dev/terms)** and **[Privacy Policy](https://dsc-server.ulticonvert.workers.dev/privacy)**.
 
 Not affiliated with Apple, Shazam, YouTube, Pioneer DJ, AlphaTheta or rekordbox. All trademarks belong to their owners.
 
