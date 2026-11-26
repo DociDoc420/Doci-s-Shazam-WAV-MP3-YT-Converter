@@ -1,0 +1,60 @@
+name: "🐛 Bug report"
+description: "Something isn't working in Doci's Song Converter"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for the report! Please fill in what you can — it helps a lot."
+  - type: input
+    id: app-version
+    attributes:
+      label: App version
+      description: "Shown in the app (Help / About)."
+      placeholder: "e.g. 3.0.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Windows version
+      options:
+        - "Windows 11"
+        - "Windows 10"
+        - "Other / not sure"
+    validations:
+      required: true
+  - type: dropdown
+    id: link-type
+    attributes:
+      label: What kind of link?
+      options:
+        - "Shazam"
+        - "YouTube"
+        - "Other"
+        - "Not link-related"
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: "What went wrong, and what you expected instead."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Paste link ...
+        2. Click Download ...
+        3. See error ...
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: "Screenshots or an error message, if you have them. Please don't paste your license key."
+    validations:
+      required: false
