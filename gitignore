@@ -1,0 +1,26 @@
+# dsc-downloads — this public repo holds only README.md, banner.png and GitHub Releases.
+# The installer is attached to a Release, NOT committed here. Never commit source or secrets.
+
+# Installers / binaries (they belong in Releases, not the repo tree)
+*.exe
+*.msi
+*.zip
+*.7z
+*.dmg
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+.vscode/
+.idea/
+
+# Safety net: never let a key or owner file into a PUBLIC repo
+*.dsckeys
+owner.json
+*.pfx
+*.pem
+signing.cmd
+.env
+release-config.json
