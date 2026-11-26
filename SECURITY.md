@@ -5,7 +5,7 @@
 The only official places to get Doci's Song Converter are:
 
 - This repository's **[Releases](../../releases/latest)**
-- The official link: **https://dsc-server.ulticonvert.workers.dev/download**
+- The official link: **https://dsc-server.ulticonvert.workers.dev**
 
 Do not trust copies re-hosted anywhere else — they may be tampered with.
 
