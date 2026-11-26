@@ -38,6 +38,7 @@
 You collect Shazams on your phone all night. The next day, getting them into rekordbox as real, playable files is slow. **Doci's Song Converter** does it for you: paste the links, and it finds each full song and saves it as a clean 24-bit AIFF or WAV with the title, artist and artwork — ready to drag into rekordbox and drop on a USB stick for your CDJs.
 
 It runs on your own PC, so your downloads come from your own connection.
+
 **New** 🍎 Mac version in beta — message @ShazamYoutubeYTConvert_bot to get early access
 
 ## Shazam → rekordbox in 5 steps
